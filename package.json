@@ -1,0 +1,24 @@
+{
+  "name": "resultados-plebiscito-2022",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/s0alken/resultados-plebiscito-2022.git"
+  },
+  "author": "s0alken",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/s0alken/resultados-plebiscito-2022/issues"
+  },
+  "homepage": "https://github.com/s0alken/resultados-plebiscito-2022#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "chalk": "^5.0.1"
+  }
+}
